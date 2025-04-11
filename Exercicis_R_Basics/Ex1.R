@@ -11,7 +11,6 @@ ex1 <- function() {
   cat("Multiplicació:", num1 * num2, "\n")
   cat("Divisió:", num1 / num2, "\n")
 }
-
 ex1()
 
 # Escriu un programa que llegeixi dos números i mostri en la sortida la 
